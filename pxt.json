@@ -4,8 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "pxt-pca9685": "github:jdarling/pxt-pca9685#v0.0.5",
-        "servo": "*"
+        "pxt-pca9685": "github:jdarling/pxt-pca9685#v0.0.5"
     },
     "files": [
         "main.blocks",
