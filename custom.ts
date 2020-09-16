@@ -48,7 +48,7 @@ namespace Firefly {
     /*//% block="Set %servoAtPin| to %angle"*/
     //% block="Sæt %servoAtPin| til position %angle"
     //% group="Servo Motor"
-    //% angle.min=0 angle.max=138 angle.defl=0
+    //% angle.min=0 angle.max=150 angle.defl=0
     export function setServo(servoAtPin: ServoPinValues, angle: number): void {
         adjustMotorType("servo")
 
